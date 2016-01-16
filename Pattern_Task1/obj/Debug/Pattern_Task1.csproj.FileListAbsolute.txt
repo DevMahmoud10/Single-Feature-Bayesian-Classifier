@@ -1,0 +1,10 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\Pattern_Task1\Pattern_Task1\bin\Debug\Pattern_Task1.exe.config
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Pattern_Task1\Pattern_Task1\bin\Debug\Pattern_Task1.exe
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Pattern_Task1\Pattern_Task1\bin\Debug\Pattern_Task1.pdb
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Pattern_Task1\Pattern_Task1\obj\Debug\Pattern_Task1.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Pattern_Task1\Pattern_Task1\obj\Debug\Pattern_Task1.Form1.resources
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Pattern_Task1\Pattern_Task1\obj\Debug\Pattern_Task1.Properties.Resources.resources
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Pattern_Task1\Pattern_Task1\obj\Debug\Pattern_Task1.Result.resources
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Pattern_Task1\Pattern_Task1\obj\Debug\Pattern_Task1.csproj.GenerateResource.Cache
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Pattern_Task1\Pattern_Task1\obj\Debug\Pattern_Task1.exe
+C:\Users\Mahmoud\documents\visual studio 2013\Projects\Pattern_Task1\Pattern_Task1\obj\Debug\Pattern_Task1.pdb
